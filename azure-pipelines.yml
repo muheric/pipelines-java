@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/emuheto0003/testing-tfs/_apis/build/status/muheric.pipelines-java?branchName=master)](https://dev.azure.com/emuheto0003/testing-tfs/_build/latest?definitionId=1&branchName=master)
 # Maven
 # Build your Java project and run tests with Apache Maven.
 # Add steps that analyze code, save build artifacts, deploy, and more:
