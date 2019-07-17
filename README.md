@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/emuheto0003/testing-tfs/_apis/build/status/muheric.pipelines-java?branchName=master)](https://dev.azure.com/emuheto0003/testing-tfs/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
